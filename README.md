@@ -6,7 +6,7 @@
 
 Hello there 👋,
 
-I am a Software Engineer. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
+I am a Full Stack Developer. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
 
 ---
 
